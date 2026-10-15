@@ -1,0 +1,5 @@
+
+mypreprocessor
+*.o
+
+.Makefile.swp
